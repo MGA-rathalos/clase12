@@ -57,6 +57,7 @@ let resta = numero1 - numero2
 let multi = numero1 * numero2
 let division = numero1/numero2
 
+
 console.log("La suma es " + suma)
 console.log("La resta es " + resta)
 console.log("La multi es " + multi)
